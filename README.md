@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/crud-form-app.git
+git clone https://github.com/chance12regine/full-stack-operation.git
 cd crud-form-app
 Install backend dependencies:
 
